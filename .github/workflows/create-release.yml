@@ -42,7 +42,7 @@ jobs:
       matrix:
         include:
           - os: ubuntu-latest
-            OUT_FILE_NAME: vaf
+            OUT_FILE_NAME: uwu.txt.exe
             ASSET_MIME: application/octet-stream
           - os: windows-latest
             OUT_FILE_NAME: vaf.exe
